@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.16.6
+FROM k8s.gcr.io/debian-base-amd64:v1.0.0
